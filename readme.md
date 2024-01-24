@@ -1,4 +1,4 @@
-# Gethub repo 
+# Github repo 
 
 - Welcome to  my Github 
 - This is where my code lives
