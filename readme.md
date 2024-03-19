@@ -17,7 +17,7 @@ Welcome to my ENSE Lab Projects Portfolio! This repository is a collection of pr
 
 ## Introduction
 
-Hello! I'm Simran Gahra, a student at University Of Regina. This repository serves as a portfolio of my work and projects undertaken in the ENSE 271 lab. Each project reflects my commitment to learning and advancing in people centered design.
+Hello! I'm Simran Gahra, a Software Systems Engineering student at University Of Regina. This repository serves as a portfolio of my work and projects undertaken in the ENSE 271 lab. Each project reflects my commitment to learning and advancing in people centered design.
 
 ## Projects Overview
 
@@ -152,3 +152,7 @@ For this project, I built a website tailored to a persona created for a job hunt
 - WordPress: Content management system for website development
 - Local by Flywheel: Local development environment for WordPress
 - Text-generation sites: Used for generating blog content (chatGPT)
+
+
+
+Thank you for exploring my ENSE Lab Projects Portfolio! I hope you found it insightful and informative. These projects represent my journey and growth as a student in Software Design. 
