@@ -6,14 +6,13 @@ Welcome to my ENSE Lab Projects Portfolio! This repository is a collection of pr
 
 - [Introduction](#introduction)
 - [Projects Overview](#projects-overview)
-  - [Project 1: Video App User Story Map](#project-1-VideoAppUserStoryMap)
-  - [Project 2: Competitor Analysis and Content Audit](#project-2-CompetitorAnalysisandContentAudit)
-  - [Project 3: UI Design Recreation from Dribbble](#project-3-UIDesignRecreationfromDribbble)
-  - [Project 4: Name](#project-4-name)
-  - [Project 5: Name](#project-5-name)
+- [Project 1: Video App User Story Map](#project-1-video-app-user-story-map)
+  - [Project 2: Competitor Analysis and Content Audit](#project-2-competitor-analysis-and-content-audit)
+  - [Project 3: UI Design Recreation from Dribbble](#project-3-ui-design-recreation-from-dribbble)
+  - [Project 4: Virtual Tour Webpage Prototype](#project-4-virtual-tour-webpage-prototype)
+  - [Project 5: Persona-driven Job Hunting Website](#project-5-persona-driven-job-hunting-website)
   - [Project 6: Name](#project-6-name)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
 
 
 ## Introduction
@@ -22,7 +21,6 @@ Hello! I'm Simran Gahra, a student at University Of Regina. This repository serv
 
 ## Projects Overview
 
-### Project 1: Video App User Story Map
 
 ### Project 1: Video App User Story Map
 
@@ -79,28 +77,65 @@ For this assignment, I selected a UI design from Dribbble, a platform where desi
 - Sole contributor responsible for analyzing the selected UI design and recreating it in Figma.
 - Tasked with identifying and reproducing each unique visual element, including images, buttons, icons, and geometrical shapes, adhering to the specified rules.
 
+#### Technologies Used
+- Manual inspection and analysis techniques
+- Tools: Figma
+
 #### Outcome
 - Successfully recreated the selected UI design in Figma, ensuring to create or find suitable replacements for all required components.
 - Aimed for accuracy and attention to detail while maintaining the essence and aesthetics of the original design.
 
 #### Submissions
 [Ui Cited Website](paste-your-copied-link-here)
-[UI Website](paste-your-copied-link-here)
+[Recreated UI Website Screenshot](paste-your-copied-link-here)
+[Recreated UI Fig File](paste-your-copied-link-here)
 
 
-### Project 4: Name
+### Project 4: Virtual Tour Webpage Prototype
 
-- **Description**: ...
-- **Role**: ...
-- **Technologies Used**: ...
-- **Outcome**: ...
+#### Description
+For this lab project, I created a virtual tour prototype of a simple webpage simulating a tour of a real-world or fictional location. The virtual tour includes a home page, a menu for easy navigation, and three landmark pages, each showcasing a specific feature of the locale. Each landmark page includes a name, a set of images, and a text description, presented in an interactive image container. Different types of interactions are utilized across the pages to enhance user engagement.
 
-### Project 5: Name
+#### Role
+- Sole contributor responsible for conceptualizing and implementing the virtual tour prototype.
+- Designed the layout, interactions, and content presentation for each page to provide an immersive touring experience.
+- Incorporated Smart Animate for a transformative effect on at least one page, with explicit documentation within the Figma file.
 
-- **Description**: ...
-- **Role**: ...
-- **Technologies Used**: ...
-- **Outcome**: ...
+#### Technologies Used
+- Tools: Figma
+
+#### Outcome
+- Successfully developed a virtual tour prototype with seamless navigation and engaging interactions.
+- Leveraged Smart Animate to add dynamic visual elements, enhancing the user experience and immersion.
+
+#### Submissions
+[Virtual Tour Screenshots](paste-your-copied-link-here)
+[Virtual Tour UI Fig File](paste-your-copied-link-here)
+
+### Project 5: Persona-driven Job Hunting Website
+
+#### Description
+For this project, I built a website tailored to a persona created for a job hunting application. Following the provided Figma persona template, I considered the goals, tasks, needs, and frustrations of the user to design a website that addresses their specific requirements. The website was created using WordPress on the Local development environment, with a focus on conveying elements of the persona's personality and addressing their job hunting challenges.
+
+#### Role
+- Sole contributor responsible for designing and developing the WordPress website.
+- Utilized the persona's traits, interests, and goals to inform the website's content and design decisions.
+- Implemented site builder blocks and static pages to showcase the persona's interests, goals, and pain points effectively.
+
+#### Technologies Used
+- WordPress: Content management system for website development.
+- Local by Flywheel: Local development environment for WordPress.
+- Figma: Design tool for creating the persona template.
+- Text-generation site: Used for generating blog content (chatGPT).
+
+#### Outcome
+- Successfully created a home page that reflects the persona's personality and interests, providing visitors with insights into their character.
+- Developed three static pages linked to the home page, each focusing on specific goals or tasks relevant to the persona's job hunting journey.
+- Established a blog page with three entries, addressing the persona's needs and pain points related to job searching.
+
+#### Submissions
+[Persona Screenshot](paste-your-copied-link-here)
+[Website Screenshots](paste-your-copied-link-here)
 
 ### Project 6: Name
 
@@ -112,6 +147,8 @@ For this assignment, I selected a UI design from Dribbble, a platform where desi
 
 ## Technologies Used
 
-Provide a comprehensive list of technologies, programming languages, tools, and frameworks you've used across all projects. This section helps viewers understand your technical skill set.
-
-- Example: Python, JavaScript, React, Node.js, Docker, AWS, Git
+- StoriesOnBoard: User story mapping tool
+- Figma: Design and prototyping tool
+- WordPress: Content management system for website development
+- Local by Flywheel: Local development environment for WordPress
+- Text-generation sites: Used for generating blog content (chatGPT)
