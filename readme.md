@@ -6,7 +6,7 @@ Welcome to my ENSE Lab Projects Portfolio! This repository is a collection of pr
 
 - [Introduction](#introduction)
 - [Projects Overview](#projects-overview)
-- [Project 1: Video App User Story Map](#project-1-video-app-user-story-map)
+  - [Project 1: Video App User Story Map](#project-1-video-app-user-story-map)
   - [Project 2: Competitor Analysis and Content Audit](#project-2-competitor-analysis-and-content-audit)
   - [Project 3: UI Design Recreation from Dribbble](#project-3-ui-design-recreation-from-dribbble)
   - [Project 4: Virtual Tour Webpage Prototype](#project-4-virtual-tour-webpage-prototype)
