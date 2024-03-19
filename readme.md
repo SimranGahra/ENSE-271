@@ -21,7 +21,6 @@ Hello! I'm Simran Gahra, a Software Systems Engineering student at University Of
 
 ## Projects Overview
 
-
 ### Project 1: Video App User Story Map
 
 #### Description
