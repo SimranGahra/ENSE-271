@@ -1,4 +1,4 @@
-# ENSE Lab Projects Portfolio
+# ENSE Project Portfolio
 
 Welcome to my ENSE Lab Projects Portfolio! This repository is a collection of projects I have worked on in the ENSE 271 lab, showcasing my journey and growth in people centered design. Each project highlighted here represents a piece of my learning, challenges, and accomplishments.
 
@@ -11,7 +11,7 @@ Welcome to my ENSE Lab Projects Portfolio! This repository is a collection of pr
   - [Project 3: UI Design Recreation from Dribbble](#project-3-ui-design-recreation-from-dribbble)
   - [Project 4: Virtual Tour Webpage Prototype](#project-4-virtual-tour-webpage-prototype)
   - [Project 5: Persona-driven Job Hunting Website](#project-5-persona-driven-job-hunting-website)
-  - [Project 6: Name](#project-6-name)
+  - [Project 6: Web Store WordPress Site](#project-6-web-store-wordPress-site)
 - [Technologies Used](#technologies-used)
 
 
@@ -137,13 +137,24 @@ For this project, I built a website tailored to a persona created for a job hunt
 [Persona Screenshot](paste-your-copied-link-here)
 [Website Screenshots](paste-your-copied-link-here)
 
-### Project 6: Name
+### Project 6: Web Store WordPress Site
 
-- **Description**: ...
-- **Role**: ...
-- **Technologies Used**: ...
-- **Outcome**: ...
+### Description
+Developed a WordPress site for a volunteer organization or web store, featuring a rich interface with 2 static pages and 3 blog pages, each illustrating various products or services offered by the organization.
 
+### Role
+- **Web Developer:** Focused on the end-to-end development of the WordPress site, from initial prototyping in Figma to final implementation. Ensured the site featured a consistent header and footer, responsive menu designs, a landing page with diverse sections, and a comprehensive blog page.
+
+### Technology Used
+- **WordPress:** Main platform for site development and content management.
+- **Figma:** Used for initial site design and layout prototyping.
+- **Page Builders (Elementor):** Optionally used for enhanced site building experience.
+
+### Outcome
+Successfully launched a WordPress site that effectively represents the essence of a volunteer organization or web store. The site is structured to highlight key aspects through its landing page sections and detailed through its blog posts on offered products or services, all while maintaining a seamless user experience across different devices.
+
+#### Submissions
+...
 
 ## Technologies Used
 
