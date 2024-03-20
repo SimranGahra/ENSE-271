@@ -18,4 +18,6 @@ This project involved creating a comprehensive User Story Map for a video sharin
 
 #### Submissions
 ![User Story Map Overview](/Project%201:%20Video%20App%20User%20Story%20Mapping/StoriesonBoard-snip.png)
-![Detailed Task View](/Project%201:%20Video%20App%20User%20Story%20Mapping/Detailed%20Tasks)
+![Detailed Task View](/Project%201:%20Video%20App%20User%20Story%20Mapping/Detailed%20Tasks/StoriesonBoarddis-1.png)
+![Detailed Task View](/Project%201:%20Video%20App%20User%20Story%20Mapping/Detailed%20Tasks/StoriesonBoarddis-2.png)
+![Detailed Task View](/Project%201:%20Video%20App%20User%20Story%20Mapping/Detailed%20Tasks/StoriesonBoarddis-3.png)
