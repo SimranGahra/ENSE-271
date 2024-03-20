@@ -14,5 +14,5 @@ Developed a WordPress site for a volunteer organization or web store, featuring 
 ### Outcome
 Successfully launched a WordPress site that effectively represents the essence of a volunteer organization or web store. The site is structured to highlight key aspects through its landing page sections and detailed through its blog posts on offered products or services, all while maintaining a seamless user experience across different devices.
 
-#### Submissions
+#### Results
 ...

@@ -19,7 +19,7 @@ For this project, I built a website tailored to a persona created for a job hunt
 - Developed three static pages linked to the home page, each focusing on specific goals or tasks relevant to the persona's job hunting journey.
 - Established a blog page with three entries, addressing the persona's needs and pain points related to job searching.
 
-#### Submissions
+#### Results
 ![Persona Screenshot](/Project%205:%20Persona-based%20Website%20for%20Job%20Hunting/Persona%20Figma.png)
 ![Website Screenshots](/Project%205:%20Persona-based%20Website%20for%20Job%20Hunting/Job%20Hunting%20Website%20For%20Alex%20Chen/Home%20Page/Screenshot%202024-03-13%20174313.png)
 ![Website Screenshots](/Project%205:%20Persona-based%20Website%20for%20Job%20Hunting/Job%20Hunting%20Website%20For%20Alex%20Chen/Home%20Page/Screenshot%202024-03-13%20174333.png)
