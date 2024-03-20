@@ -15,13 +15,9 @@ For this assignment, I undertook a competitor analysis and content audit of a sm
 #### Outcome
 - **Sitemap**: Created a visual representation of the website's structure, outlining all pages and their hierarchical relationship.
 - **Asset Inventory**: Compiled a comprehensive list of all assets used on the website, including images, icons, and textual content, with appropriate file naming conventions.
-- **Website Used**: Dalya Baron's Porfollo - https://www.dalyabaron.com/
+- **Website Used**: [Dalya Baron's Portfolio](/Project%202:%20Competitor%20Analysis%20and%20Content%20Audit/Dayla%20Baraon%20Portfolio/) - https://www.dalyabaron.com/
 
 #### Results
 ![Site Map Overview](/Project%202:%20Competitor%20Analysis%20and%20Content%20Audit/Sitemap.PNG)
 ![Asset-Inventory](/Project%202:%20Competitor%20Analysis%20and%20Content%20Audit/asset-inventory%201.jpg)
 ![Asset-List](/Project%202:%20Competitor%20Analysis%20and%20Content%20Audit/asset-list.jpg)
-![DalyaBaronPorfollo]()
-![DalyaBaronPorfollo]()
-![DalyaBaronPorfollo]()
-![DalyaBaronPorfollo]()
