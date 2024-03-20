@@ -15,6 +15,6 @@ For this lab project, I created a virtual tour prototype of a simple webpage sim
 - Successfully developed a virtual tour prototype with seamless navigation and engaging interactions.
 - Leveraged Smart Animate to add dynamic visual elements, enhancing the user experience and immersion.
 
-#### Submissions
+#### Results
 ![Virtual Tour Screenshots](/Project%204:%20Virtual%20Tour%20Prototype/Game%20Virtual%20Tour%201.jpg)
 ![Virtual Tour UI Fig File](/Project%204:%20Virtual%20Tour%20Prototype/Game%20Virtual%20Tour%202.jpg)
