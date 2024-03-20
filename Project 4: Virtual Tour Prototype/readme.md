@@ -16,5 +16,5 @@ For this lab project, I created a virtual tour prototype of a simple webpage sim
 - Leveraged Smart Animate to add dynamic visual elements, enhancing the user experience and immersion.
 
 #### Submissions
-[Virtual Tour Screenshots](paste-your-copied-link-here)
-[Virtual Tour UI Fig File](paste-your-copied-link-here)
+![Virtual Tour Screenshots](/Project%204:%20Virtual%20Tour%20Prototype/Game%20Virtual%20Tour%201.jpg)
+![Virtual Tour UI Fig File](/Project%204:%20Virtual%20Tour%20Prototype/Game%20Virtual%20Tour%202.jpg)
