@@ -5,27 +5,27 @@ Welcome to my ENSE Lab Projects Portfolio! This repository serves as a portfolio
 
 ## Projects Overview
 
-### [Project 1: Video App User Story Mapping](/Project 1: Video App User Story Map)
+### [Project 1: Video App User Story Mapping](/Project1:VideoAppUserStoryMap)
 
 - A user story mapping for a video sharing application, focusing on user experience and functionality.
 
-### [Project 2: Competitor Analysis and Content Audit](/Project 2: Competitor Analysis and Content Audit)
+### [Project 2: Competitor Analysis and Content Audit](/Project2:CompetitorAnalysisandContentAudit)
 
 - An in-depth competitor analysis and content audit for a small website, preparing for a redesign.
 
-### [Project 3: UI Recreation in Figma](/Project 3: UI Recreation in Figma)
+### [Project 3: UI Recreation in Figma](/Project3:UIRecreationinFigma)
 
 - Recreating a UI design from Dribbble in Figma, focusing on component-based design and attention to detail.
 
-### [Project 4: Virtual Tour Prototype](/Project 4: Virtual Tour Prototype)
+### [Project 4: Virtual Tour Prototype](/Project4:VirtualTourPrototype)
 
 - Developing a prototype for a virtual tour of a real or fictional location, showcasing various landmarks.
 
-### [Project 5: Persona-based Website for Job Hunting](/Project 5: Persona-based Website for Job Hunting)
+### [Project 5: Persona-based Website for Job Hunting](/Project5:Persona-basedWebsiteforJobHunting)
 
 - Building a website tailored to a persona created for a job hunting application, using WordPress.
 
-### [Project 6: WordPress Site for Web Store](/Project 6: WordPress Site for Web Store)
+### [Project 6: WordPress Site for Web Store](/Project6:WordPressSiteforWebStore)
 
 - Creating a WordPress site for a volunteer organization or web store, featuring static and blog pages.
 
@@ -39,6 +39,19 @@ Welcome to my ENSE Lab Projects Portfolio! This repository serves as a portfolio
 
 Feel free to explore the projects listed above to see detailed descriptions, roles, technologies used, and outcomes for each project. Thank you for exploring my ENSE Lab Projects Portfolio! I hope you found it insightful and informative. These projects represent my journey and growth as a student in People Center Software Design. 
 
+
+
+
+
+- [Introduction](#introduction)
+- [Projects Overview](#projects-overview)
+  - [Project 1: Video App User Story Map](#project-1-video-app-user-story-map)
+  - [Project 2: Competitor Analysis and Content Audit](#project-2-competitor-analysis-and-content-audit)
+  - [Project 3: UI Design Recreation from Dribbble](#project-3-ui-design-recreation-from-dribbble)
+  - [Project 4: Virtual Tour Webpage Prototype](#project-4-virtual-tour-webpage-prototype)
+  - [Project 5: Persona-driven Job Hunting Website](#project-5-persona-driven-job-hunting-website)
+  - [Project 6: Web Store WordPress Site](#project-6-web-store-wordPress-site)
+- [Technologies Used](#technologies-used)
 
 
 
