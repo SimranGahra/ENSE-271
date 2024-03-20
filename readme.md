@@ -36,5 +36,6 @@ Welcome to my ENSE Lab Projects Portfolio! This repository serves as a portfolio
 - WordPress: Content management system for website development
 - Local by Flywheel: Local development environment for WordPress
 - Various Page Builders and Prototyping Tools
-
+\
+\
 Feel free to explore the projects listed above to see detailed descriptions, roles, technologies used, and outcomes for each project. Thank you for exploring my ENSE Lab Projects Portfolio! I hope you found it insightful and informative. These projects represent my journey and growth as a student in People Center Software Design. 
