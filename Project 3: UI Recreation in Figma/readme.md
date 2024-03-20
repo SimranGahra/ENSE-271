@@ -16,6 +16,6 @@ For this assignment, I selected a UI design from Dribbble, a platform where desi
 - Aimed for accuracy and attention to detail while maintaining the essence and aesthetics of the original design.
 - Website Referenced - https://dribbble.com/shots/15858416-HVM-Websit
 
-#### Submissions
-[Recreated UI Website Screenshot](paste-your-copied-link-here)
+#### Results
+[Recreated UI Website Screenshot](/Project%203:%20UI%20Recreation%20in%20Figma/HVM%20Recreation.jpg)
 
