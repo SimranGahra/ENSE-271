@@ -16,7 +16,8 @@ This project involved creating a comprehensive User Story Map for a video sharin
 - **Releases**: Defined at least two release phases for the application, categorizing tasks into scheduled and unscheduled, to strategize the rollout of features effectively.
 - **Extra Features**: Experimented with additional StoriesOnBoard features such as card colors, annotations, and personas to enrich the user story map and provide deeper insights into user needs and preferences.
 
-#### Submissions
+#### Results
+![GitHub Overview](/Project%201:%20Video%20App%20User%20Story%20Mapping/GitHub_snip.png)
 ![User Story Map Overview](/Project%201:%20Video%20App%20User%20Story%20Mapping/StoriesonBoard-snip.png)
 ![Detailed Task View](/Project%201:%20Video%20App%20User%20Story%20Mapping/Detailed%20Tasks/StoriesonBoarddis-1.png)
 ![Detailed Task View](/Project%201:%20Video%20App%20User%20Story%20Mapping/Detailed%20Tasks/StoriesonBoarddis-2.png)
