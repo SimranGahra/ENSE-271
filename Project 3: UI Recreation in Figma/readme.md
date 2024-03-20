@@ -17,5 +17,5 @@ For this assignment, I selected a UI design from Dribbble, a platform where desi
 - Website Referenced - https://dribbble.com/shots/15858416-HVM-Websit
 
 #### Results
-[Recreated UI Website Screenshot](/Project%203:%20UI%20Recreation%20in%20Figma/HVM%20Recreation.jpg)
+![Recreated UI Website Screenshot](/Project%203:%20UI%20Recreation%20in%20Figma/HVM%20Recreation.jpg)
 
