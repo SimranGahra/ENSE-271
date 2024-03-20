@@ -18,6 +18,6 @@ For this assignment, I undertook a competitor analysis and content audit of a sm
 - **Website Used**: DalyaB Baron's Porfollo - https://www.dalyabaron.com/
 
 #### Results
-[Site Map Overview](/Project%202:%20Competitor%20Analysis%20and%20Content%20Audit/)
-[Asset-Inventory](/Project%202:%20Competitor%20Analysis%20and%20Content%20Audit/asset-inventory%201.jpg)
-[Asset-List](/Project%202:%20Competitor%20Analysis%20and%20Content%20Audit/asset-list.jpg)
+![Site Map Overview](/Project%202:%20Competitor%20Analysis%20and%20Content%20Audit/)
+![Asset-Inventory](/Project%202:%20Competitor%20Analysis%20and%20Content%20Audit/asset-inventory%201.jpg)
+![Asset-List](/Project%202:%20Competitor%20Analysis%20and%20Content%20Audit/asset-list.jpg)
