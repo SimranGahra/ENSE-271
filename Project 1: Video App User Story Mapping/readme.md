@@ -17,5 +17,5 @@ This project involved creating a comprehensive User Story Map for a video sharin
 - **Extra Features**: Experimented with additional StoriesOnBoard features such as card colors, annotations, and personas to enrich the user story map and provide deeper insights into user needs and preferences.
 
 #### Submissions
-![User Story Map Overview](link-to-your-screenshot)
-![Detailed Task View](link-to-another-screenshot)
+![User Story Map Overview](/Project%201:%20Video%20App%20User%20Story%20Mapping/StoriesonBoard-snip.png)
+![Detailed Task View](/Project%201:%20Video%20App%20User%20Story%20Mapping/Detailed%20Tasks)
