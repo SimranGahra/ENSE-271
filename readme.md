@@ -1,6 +1,6 @@
 # ENSE Projects Portfolio
 
-Hello! I'm Simran Gahra, a Software Systems Engineering student at University Of Regina.
+Hello! I'm Simran Gahra, a Software Systems Engineering student at University Of Regina.\
 Welcome to my ENSE Lab Projects Portfolio! This repository serves as a portfolio of my work and projects undertaken in the ENSE 271 lab. Each project highlighted here represents a piece of my learning, challenges, and accomplishments.
 
 ## Projects Overview
@@ -38,21 +38,3 @@ Welcome to my ENSE Lab Projects Portfolio! This repository serves as a portfolio
 - Various Page Builders and Prototyping Tools
 
 Feel free to explore the projects listed above to see detailed descriptions, roles, technologies used, and outcomes for each project. Thank you for exploring my ENSE Lab Projects Portfolio! I hope you found it insightful and informative. These projects represent my journey and growth as a student in People Center Software Design. 
-
-
-
-
-
-- [Introduction](#introduction)
-- [Projects Overview](#projects-overview)
-  - [Project 1: Video App User Story Map](#project-1-video-app-user-story-map)
-  - [Project 2: Competitor Analysis and Content Audit](#project-2-competitor-analysis-and-content-audit)
-  - [Project 3: UI Design Recreation from Dribbble](#project-3-ui-design-recreation-from-dribbble)
-  - [Project 4: Virtual Tour Webpage Prototype](#project-4-virtual-tour-webpage-prototype)
-  - [Project 5: Persona-driven Job Hunting Website](#project-5-persona-driven-job-hunting-website)
-  - [Project 6: Web Store WordPress Site](#project-6-web-store-wordPress-site)
-- [Technologies Used](#technologies-used)
-
-
-
-
