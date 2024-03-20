@@ -16,7 +16,7 @@ For this assignment, I undertook a competitor analysis and content audit of a sm
 - **Sitemap**: Created a visual representation of the website's structure, outlining all pages and their hierarchical relationship.
 - **Asset Inventory**: Compiled a comprehensive list of all assets used on the website, including images, icons, and textual content, with appropriate file naming conventions.
 
-#### Submissions
+#### Results
 [Website Txt File](paste-your-copied-link-here)
 [Site Map Overview](paste-your-copied-link-here)
 [Asset-Inventory](paste-your-copied-link-here)
