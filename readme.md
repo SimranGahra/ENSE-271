@@ -1,7 +1,7 @@
-# People-Center UI Projects Portfolio
+# People-Center UI Portfolio
 
 Hello! I'm Simran Gahra, a Software Systems Engineering student at University Of Regina.\
-Welcome to my People-Center UI Projects Portfolio! This repository serves as a portfolio of my work and projects reflecting my understanding in People-Center Design. Each project highlighted here represents a piece of my learning, challenges, and accomplishments.
+Welcome to my People-Center UI Portfolio! This repository serves as a portfolio of my work and projects reflecting my understanding in People-Center Design. Each project highlighted here represents a piece of my learning, challenges, and accomplishments.
 
 ## Projects Overview
 
