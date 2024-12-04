@@ -1,4 +1,4 @@
-### Project 3: UI Design Recreation from Dribbble
+### Project 3- UI Design Recreation from Dribbble
 
 #### Description
 For this assignment, I selected a UI design from Dribbble, a platform where designers showcase their UI work. The chosen design includes at least 10 unique components, which I attempted to recreate using Figma, a collaborative interface design tool.

@@ -1,4 +1,4 @@
-### Project 6: Web Store WordPress Site
+### Project 6- Web Store WordPress Site
 
 ### Description
 Developed a WordPress site for a volunteer organization or web store, featuring a rich interface with 2 static pages and 3 blog pages, each illustrating various products or services offered by the organization.

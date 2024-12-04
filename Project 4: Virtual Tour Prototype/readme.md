@@ -1,4 +1,4 @@
-### Project 4: Virtual Tour Webpage Prototype
+### Project 4- Virtual Tour Webpage Prototype
 
 #### Description
 For this lab project, I created a virtual tour prototype of a simple webpage simulating a tour of a real-world or fictional location. The virtual tour includes a home page, a menu for easy navigation, and three landmark pages, each showcasing a specific feature of the locale. Each landmark page includes a name, a set of images, and a text description, presented in an interactive image container. Different types of interactions are utilized across the pages to enhance user engagement.

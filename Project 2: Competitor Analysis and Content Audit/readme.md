@@ -1,4 +1,4 @@
-### Project 2: Competitor Analysis and Content Audit
+### Project 2- Competitor Analysis and Content Audit
 
 #### Description
 For this assignment, I undertook a competitor analysis and content audit of a small website consisting of 3 to 5 pages. The objective was to prepare for a redesign by thoroughly analyzing the existing content and structure of the site. I created a sitemap and an asset inventory to gain insights into the current state of the website.

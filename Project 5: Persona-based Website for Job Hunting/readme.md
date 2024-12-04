@@ -1,4 +1,4 @@
-### Project 5: Persona-driven Job Hunting Website
+### Project 5- Persona-driven Job Hunting Website
 
 #### Description
 For this project, I built a website tailored to a persona created for a job hunting application. Following the provided Figma persona template, I considered the goals, tasks, needs, and frustrations of the user to design a website that addresses their specific requirements. The website was created using WordPress on the Local development environment, with a focus on conveying elements of the persona's personality and addressing their job hunting challenges.

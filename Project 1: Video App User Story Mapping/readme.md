@@ -1,4 +1,4 @@
-### Project 1: Video App User Story Map
+### Project 1- Video App User Story Map
 
 #### Description
 This project involved creating a comprehensive User Story Map for a video sharing application, akin to platforms like YouTube or TikTok, focusing on the user experience and interaction with the application. Utilizing StoriesOnBoard, I developed a private, solo board to visually organize and prioritize the application's development from a user-centric perspective.
